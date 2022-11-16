@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="titulo">Calificaciones</string>
+    <string name="nombre">Nombre:</string>
+    <string name="carrera">Carrera:</string>
+    <string name="numero_c">Número de control:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="correo">Correo:</string>
+    <string name="aceptar">ACEPTAR</string>
+
+    <string name="titulo2">Mis datos</string>
+    <string name="btnOK">OK</string>
+
+</resources>
